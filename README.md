@@ -231,7 +231,3 @@ yolo
 ## **License**
 
 This project is licensed under the MIT License. See `LICENSE` for details.
-
----
-
-Let me know if you’d like to adjust or expand any part of this README!
